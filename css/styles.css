@@ -1,0 +1,13 @@
+body {
+  background-color: whitesmoke;
+}
+
+.card-img-top {
+  width: 220px;
+  display: block;
+  float: right;
+}
+
+.card {
+  margin: 5px 5px 5px 5px;
+}
