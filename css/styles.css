@@ -27,6 +27,7 @@ header>p {
 
 .card {
   margin: 5px 5px 5px 5px;
+  background-color: #f8f7ff;
 }
 
 .card-title {
@@ -57,6 +58,11 @@ a:hover {
   font-family: cursive;
   font-weight: bold;
   font-size: larger;
+}
+
+.back {
+  font-weight: bolder;
+  color: #523a3a;
 }
 
 #hesitate {
