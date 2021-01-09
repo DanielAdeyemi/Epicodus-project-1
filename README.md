@@ -1,6 +1,6 @@
 # Portfolio Project 
 ---
-#### *by* ***Daniel Adeyemi*** *(last edited 01/08/2021)*
+#### *by* ***Daniel Adeyemi*** *(last edited: 01/08/2021)*
 * * *
 ## *Description:*   
 This project conclude my first week at Epicodus as a full-time student. **The goal** of the project is to build a portfolio web-page with information about me, such as:
