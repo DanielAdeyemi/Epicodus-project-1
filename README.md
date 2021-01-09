@@ -20,6 +20,7 @@ This project conclude my first week at Epicodus as a full-time student. **The go
 * HTML
 * CSS 
 * Bootstrap *v5.0.0.beta1*
+* Git and GitHub
 
 ## *Known bugs and contact information:*
 No bugs has been discovered. Web-page downloads and exexutes well.   
@@ -27,5 +28,5 @@ If you have ideas how to improve my project or just want to contact me, please s
 
 ---
 ## *License and copiright:*
-> © Daniel Adeyemi, 2021
-> *Licensed under MIT license*
+> © Daniel Adeyemi, 2021   
+> *Licensed under [MIT](https://mit-license.org) license*
