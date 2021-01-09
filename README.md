@@ -14,7 +14,7 @@ This project conclude my first week at Epicodus as a full-time student. **The go
 * If you want to see any specific part of my code, go to ***index.html*** or ***styles.css***
 * If you want just open my web-page in your browser, execute **open index.html** command in your terminal.    
 *Note: please, make sure that you are inside project directory!*
-* If you just want to check my page without open your editor/ terminal - click on this [GitHub page]() link
+* If you just want to check my page without open your editor/ terminal - click on this [GitHub page](https://danieladeyemi.github.io/Epicodus-project-1/) link
 
 ## *Technologies used:*
 * HTML
