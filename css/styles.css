@@ -46,6 +46,19 @@ a {
   font-style: italic;
 }
 
+ul {
+  position: relative;
+  list-style: none;
+  margin-left: 0;
+  padding-left: 1.5em;
+}
+
+ul li:before {
+  content: "👉🏽";
+  position: absolute;
+  left: 0;
+}
+
 a:hover {
   text-decoration: underline;
   font-weight: bold;
