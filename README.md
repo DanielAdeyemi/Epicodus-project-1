@@ -23,7 +23,7 @@ This project conclude my first week at Epicodus as a full-time student. **The go
 * Git and GitHub
 
 ## *Known bugs and contact information:*
-No bugs has been discovered. Web-page downloads and exexutes well.   
+No bugs have been discovered. Web-page downloads and executes as intended.   
 If you have ideas how to improve my project or just want to contact me, please send [email](mailto:adeyemidany@gmail.com).
 
 ---
